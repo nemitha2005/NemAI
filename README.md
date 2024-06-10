@@ -2,11 +2,11 @@
 
 Welcome to **NemAI-beta**, your very own AI-powered chatbot that brings the future of conversational AI right to your fingertips. Engage in meaningful, insightful, and fun conversations, all through an intuitive and user-friendly interface.
 
-![NemAI-beta Screenshot](https://drive.google.com/file/d/1cqy7R8SQp8YzCrSMTM2V0n6emjFz2JKN/view?usp=sharing)
+![NemAI-beta Screenshot](Screenshots/interface.png)
 
 ## 🛠️ How It Works
 
-NemAI is built using modern web technologies including React and Framer Motion. The chatbot leverages powerful AI models to understand and respond to your queries. Here’s a quick rundown of the main components:
+NemAI is built using Google gemini API & modern web technologies including React and Framer Motion. The chatbot leverages powerful AI models to understand and respond to your queries. Here’s a quick rundown of the main components:
 
 ### Main Component
 
@@ -27,7 +27,7 @@ NemAI is built using modern web technologies including React and Framer Motion. 
 
 ## 🌐 Live Demo
 
-Experience NemAI-beta live: [NemAI-beta Live Demo]([https://your-deployed-app-link.com](https://nemai-beta-hrtu.vercel.app/))
+Experience NemAI-beta live: [NemAI-beta Live Demo]([https://nemai-beta-hrtu.vercel.app/])
 
 ## 🙌 Contributing
 
