@@ -28,7 +28,7 @@ NemAI is built using Google gemini API & modern web technologies including React
 ## 🌐 Live Demo
 
 - Responsive version is still underdevelopment🚧
-- Experience NemAI-beta live: [https://nemai-beta-hrtu.vercel.app/]
+- Experience NemAI-beta live: https://nemai-beta-hrtu.vercel.app/
 
 ## 🙌 Contributing
 
