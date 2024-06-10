@@ -37,4 +37,4 @@ Welcome contributions! If you have suggestions for new features, improvements, o
 
 ---
 
-Thank you for checking out NemAI-beta! I hope you enjoy chatting with our AI as much as I enjoyed building it.
+Thank you for checking out NemAI-beta! I hope you enjoy chatting with my AI as much as I enjoyed building it.
